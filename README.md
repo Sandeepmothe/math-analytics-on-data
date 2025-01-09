@@ -1,4 +1,4 @@
-**Outliers were identified and removed from the dataset using the percentile quantile method with thresholds set at the 0.001 (0.1%) and 0.999 (99.9%) percentiles. 
+**Outliers were identified and removed from the [dataset]([url](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data/data)) using the percentile quantile method with thresholds set at the 0.001 (0.1%) and 0.999 (99.9%) percentiles. 
 This approach involves calculating the data distribution's extreme lower and upper bounds, effectively capping the values within the range that covers 99.8% of the data.**
 
 
